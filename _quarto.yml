@@ -1,0 +1,35 @@
+project:
+  type: book
+
+
+book:
+  title: "Mogulesko's Memoirs"
+  author: "Mogulesko more or less, translated by <a href='https://sjspielman.github.io/'>Stephanie Spielman<a>"
+  translator: "Stephanie Spielman"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/sjspielman/mogulesko-memoirs
+        aria-label: GitHub
+      - icon: envelope-fill
+        href: mailto:stephanie.spielman@gmail.com
+        aria-label: Email
+  chapters:
+    - index.qmd
+    - 1914-02-05.qmd
+    
+    
+  page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+  google-analytics: "G-WWFS41KSZH"
+
+
+format:
+  html:
+    fontsize: 14px;
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    grid:
+      sidebar-width: 300px;
+      body-width: 800px;
+    theme: cosmo
