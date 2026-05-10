@@ -1,12 +1,17 @@
 # Mogulesko's entire autobiography dictated to the "Forverts" by Mogulesko himself
 
-> This chapter about his life in America, as he dictated to a reporter from the "Forverts" from his deathbed. -- How the Yiddish theater was born. -- Mogulesko was one of the very first performers.
+::: {style="text-align: right;"}
+_Published in the_ Forverts _on [1914-02-05](https://www.nli.org.il/en/newspapers/frw/1914/02/05/01/article/17/)_
+:::
+
+
+> This chapter about his life in America, as he dictated to a reporter from the "Forverts" from his deathbed. -- How the Yiddish theater was born. -- Mogulesko was one of the very first performers.^[Except this is a lie - this is not actually what they publish here. They are playing readership games.]
 <!--
 Picture caption: 
 Sigmond Mogulesko as "Frantsele" in the operetta "The capricious _meidl_" by Goldfaden. He appeared in this role when he was 17 years old.
 -->
 
-A few weeks before his death, Mogulesko started to tell this chapter of his memoirs, which takes place in America, to a reporter from the "Forverts." He was already lying in bed, a bed he no longer got up from. Our reporter wrote down everything Mogulesko told him. The actor told him, and our reporter recorded every word he said. His daughter was often nearby, and his wife would, from time to time, would comment things like, "Oy, how well you remember everything! _A gezund oif dich, tatele!_ You didn't forget the the smallest, tiniest detail."
+A few weeks before his death, Mogulesko started to tell this chapter of his memoirs, which takes place in America, to a reporter from the "Forverts." He was already lying in bed, a bed he no longer got up from. Our reporter wrote down everything Mogulesko told him. The actor told him, and our reporter recorded every word he said. His daughter was often nearby, and his wife would, from time to time, would comment things like, "Oy, how well you remember everything! _A gezund oif dich, tatele!_ You didn't forget the smallest, tiniest detail."
 
 Our reporter had several conversations with Mogulesko about his life in America - from the first day that he arrived to now. The reporter would often ask him if the conversation was too much exertion for him.
 
@@ -14,7 +19,7 @@ Our reporter had several conversations with Mogulesko about his life in America 
 
 The first of these memories was Mogulesko's life in America, which we printed a few weeks ago. We'll continue those stories now, but first we want to make an announcement: We will re-publish Mogulesko's memories about the birth of the Yiddish theater, why he became an actor, and his earliest performances in Roumania and Russia. These memories were published in the "Forverts" a few years ago, and they are full of remarkably interesting tales of the Yiddish theater in general. Together with the new memories that he dictated on his deathbed, this comprises a complete biography of the late king of the Yiddish stage.
 
-The first article that we're publishing here today was first published in the "Forverts" on December 25th, 1909. We are re-publishing it without any changes, with all dates as numbered as they originally appeared.
+The first article that we're publishing here today was [first published in the "Forverts" on December 25th, 1909](https://www.nli.org.il/en/newspapers/frw/1909/12/25/01/article/33/). We are re-publishing it without any changes, with all dates as numbered as they originally appeared.
 
 ---
 
@@ -37,7 +42,7 @@ We resasured him that everything about his life is interesting, and then he bega
 
 "My father died when I was nine years old. The city helped my mother out with a sort of pension, because she was the Rav's daughter. It wasn't enough to live on though, so she send me away to a _chazan_. I sang from a very young age there - I inherited this from my mother. She had a lovely voice and a good sense of music. She used to _kvell_ hearing me sing, but now out of desperation, she handed me over to the _chazan_ Yosef Heller. 
 
-He had just arrived to Zlatopoliye from another city and had just begun to hold auditions, as was customary. His family had not yet come to the _shtetl_. People called him "the new _chazan_." I still remember my audition - he had me sing something and I sang a Belarusian song. He liked the song, but he said, 'Can you sing something _chazanishe_?' So I sang _M'khalkeil Chayim_^[a niggun, section of the second amidah bracha. Who knows, could be the same tune we sing today.] and _Zochreinu_^[From Yom Kippur]."
+He had just arrived to Zlatopoliye from another city and had just begun to hold auditions, as was customary. His family had not yet come to the _shtetl_. People called him "the new _chazan_." I still remember my audition - he had me sing something and I sang a Belarusian song. He liked the song, but he said, 'Can you sing something _chazanishe_?' So I sang _M'khalkeil Chayim_^[a nigun, section of the second amidah bracha. Who knows, could be the same tune we sing today.] and _Zochreinu_^[From Yom Kippur]."
 
 "Were you self-conscious?" the reporter asked.
 
@@ -47,7 +52,7 @@ Mogulesko thought hard to recall, but could not.
 
 "In any case, the _chazan_'s wife soon came in, and I was accepted for three years and given food and clothes, 30 rubles for rent, 5 rubles for the first year, 10 for the second, and 15 for the third year. By the way, this _chazan_ Yosef Heller died some time ago here in Philadelphia, and his widow lives there with her eight children. Eight years ago^[As this was originally published in 1909, we can assume this occurred ~1901], she married two of her daughters off in one evening, and I made a special trip down from New York to the wedding. While visiting I slept on the same pillows I used to sleep on in Zlatopoliye when I was just a nine year old _meshoyrer_^[synagogue choirboy].
 
-Mogulesko then wanted to talk about the early days of the theater, but the reporter asked him to share a bit more from his _meshoyrer_ days. The actor's eyes lit up as he said, again with that smile, "Well, there's not much to say about those early days, When a young boy comes to a _chazan_, the first thing he does is stand still and stay quiet, and listen to the older _meshoyrim_ sing. He has to first learn the "trade." A little later once he has learned the _niggunim_, he can join the choir. The whole business didn't suit me much. I wanted to finish my bread as quickly as I could^[idiomatic, "I was impatient"]. More than anything, I wanted to learn to read music, but in the beginning nobody said a word about this. The _chazan_ wasn't in any rush to train me that way. So I ingratiated myself with the other singers so they could teach me in secret. I would polish their shoes and clean their coats. It wasn't that I was a sad, unfortunate kid; they probably liked me - long story short, they gave me sheet music lessons without the _chazan_ knowing. I took so eagerly to it that in only four months I could read music excellently which for a nine-year-old _meshoyrer_ is an unusual thing. I was scared that when the _chazan_ discovered it, he would take action against me and that I had made a mistake. Once when he caught me singing with sheet music with an older _meshoyrer_ who was teaching me, he wasn't just surprised but shocked - and he wasn't used to being surprised.
+Mogulesko then wanted to talk about the early days of the theater, but the reporter asked him to share a bit more from his _meshoyrer_ days. The actor's eyes lit up as he said, again with that smile, "Well, there's not much to say about those early days, When a young boy comes to a _chazan_, the first thing he does is stand still and stay quiet, and listen to the older _meshoyrim_ sing. He has to first learn the "trade." A little later once he has learned the _nigunim_, he can join the choir. The whole business didn't suit me much. I wanted to finish my bread as quickly as I could^[idiomatic, "I was impatient"]. More than anything, I wanted to learn to read music, but in the beginning nobody said a word about this. The _chazan_ wasn't in any rush to train me that way. So I ingratiated myself with the other singers so they could teach me in secret. I would polish their shoes and clean their coats. It wasn't that I was a sad, unfortunate kid; they probably liked me - long story short, they gave me sheet music lessons without the _chazan_ knowing. I took so eagerly to it that in only four months I could read music excellently which for a nine-year-old _meshoyrer_ is an unusual thing. I was scared that when the _chazan_ discovered it, he would take action against me and that I had made a mistake. Once when he caught me singing with sheet music with an older _meshoyrer_ who was teaching me, he wasn't just surprised but shocked - and he wasn't used to being surprised.
 
 "'What kind of a voice is this?' he said. 
 
